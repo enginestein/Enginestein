@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am quite boring :p**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein&theme=tokyonight" alt="enginestein" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein&theme=matrix" alt="enginestein" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +48,8 @@ Languages Listed:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/enginesteinl"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50" width="210" alt="https://www.buymeacoffee.com/enginesteinl" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginestein&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="enginestein" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginestein&show_icons=true&locale=en&layout=compact&theme=matrix"  alt="enginestein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginestein&show_icons=true&locale=en&theme=tokyonight" alt="enginestein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginestein&show_icons=true&locale=en&theme=matrix" alt="enginestein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginestein&&theme=tokyonight" alt="enginestein" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginestein&&theme=matrix" alt="enginestein" /></p>
