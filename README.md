@@ -1,9 +1,22 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/1043908444333285426/1058345367550308422/download.jpeg)
 <h1 align="center">Hi 👋, I'm Enginestein</h1>
 <h3 align="center">A Engineer from India!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginestein&label=Profile%20views&color=0e75b6&style=flat" alt="enginestein" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein" alt="enginestein" /></a> </p>
+
+- 🔭 I’m currently working on **Game Models**
+
+- 🌱 I’m currently learning **Character Modeling**
+
+- 💬 Ask me about **Anything related to computers and engineering!**
+
+- 📫 How to reach me **enginestein@gmail.com**
+
+- ⚡ Fun fact **I am quite boring :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,10 +44,10 @@ Languages Listed:
 - **Bash**
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/enginesteinl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/enginesteinl" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/enginesteinl"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50" width="210" alt="https://www.buymeacoffee.com/enginesteinl" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginestein&show_icons=true&locale=en&layout=compact" alt="enginestein" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginestein&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="enginestein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginestein&show_icons=true&locale=en" alt="enginestein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginestein&show_icons=true&locale=en&theme=tokyonight" alt="enginestein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginestein&" alt="enginestein" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginestein&&theme=tokyonight" alt="enginestein" /></p>
