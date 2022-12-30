@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginestein&label=Profile%20views&color=0e75b6&style=flat" alt="enginestein" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein" alt="enginestein" /></a> </p>
-
 - 🔭 I’m currently working on **Game Models**
 
 - 🌱 I’m currently learning **Character Modeling**
@@ -17,6 +15,8 @@
 - 📫 How to reach me **enginestein@gmail.com**
 
 - ⚡ Fun fact **I am quite boring :p**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein&theme=tokyonight" alt="enginestein" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
