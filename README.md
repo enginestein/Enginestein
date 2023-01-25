@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://dev.to/@enginestein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@enginestein" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21070085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21070085" height="30" width="40" /></a>
-<a href="https://hashnode.com/@enginestein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@enginestein" height="30" width="40" /></a>
+<a href="https://hashnode.com/@enginestein" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@enginestein" height="30" width="40" /></a>
 <a href="https://medium.com/@enginestein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enginestein" height="30" width="40" /></a>
 <a href="https://discord.gg/Enginestein λ̲#1524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Enginestein λ̲#1524" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Arya-Praneil" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="@enginestein" height="30" width="40" /></a>
