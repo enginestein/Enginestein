@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultrasonic sensor and Adruno Uno](https://dev.to/enginestein/ultrasonic-sensor-and-adruno-uno-30hk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
