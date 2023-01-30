@@ -51,7 +51,6 @@ Languages Listed:
 - **Go**
 - **R**
 - **Haskell**
-- **Assembly**
 - **Lua**
 - **SQL**
 - **Bash**
