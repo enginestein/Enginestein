@@ -1,7 +1,5 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1043908444333285426/1058345367550308422/download.jpeg)
 <h1 align="center">Hi 👋, I'm Enginestein</h1>
-<h3 align="center">A Engineer from India!</h3>
-
 
 
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
