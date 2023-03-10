@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginestein&label=Profile%20views&color=0e75b6&style=flat" alt="enginestein" /> </p>
 
-- 🔭 I’m currently working on **Game Models**
+- 🔭 I’m currently working on **GTA SA Mods**
 
-- 🌱 I’m currently learning **Character Modeling**
+- 🌱 I’m currently learning **Game Modding**
 
 - 💬 Ask me about **Anything related to computers and engineering!**
 
 - 📫 How to reach me **enginestein@gmail.com**
-
-- ⚡ Fun fact **I am quite boring :p**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein&theme=matrix" alt="enginestein" /></a> </p>
 
