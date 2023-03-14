@@ -38,11 +38,6 @@
 <p align=center>
   <code><img src="https://github-readme-activity-graph.cyclic.app/graph?username=enginestein&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></code>
   
-<h4 align="center">♪==My music==♫</h4>
-https://user-images.githubusercontent.com/117010357/224999608-2efa73c6-3e90-4870-a0b1-2f4af9d0b98f.mp4
-
-
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
