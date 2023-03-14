@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **enginestein@gmail.com**
 
+- Looking for someone to collab with me in making GTA mods
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginestein&theme=matrix" alt="enginestein" /></a> </p>
 
 <h3 align="center">🛠️==Languages and Tools==🛠️</h3>
@@ -38,6 +40,12 @@
 <p align=center>
   <code><img src="https://github-readme-activity-graph.cyclic.app/graph?username=enginestein&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></code>
   
+<h3 align="center">♫ My music</h3>
+  
+  <code>https://user-images.githubusercontent.com/117010357/225001594-abf141cc-57fe-4e3d-99ef-fb38288ac601.mp4</code>
+  
+  <code>https://user-images.githubusercontent.com/117010357/225002024-599c9d99-4470-42c1-b595-29aa5b91dc7a.mp4</code>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
